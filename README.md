@@ -6,7 +6,9 @@ Este é o projeto elaborado para o curso HTML and CSS em Depth, oferecido pelo M
 
 ## Demonstração
 
-https://github.com/Amanda-ribeiiro/project-html-and-css-in-depth/assets/108890154/cfe5b88d-2a73-434f-b3e0-ec622f076f5a
+https://github.com/Amanda-ribeiiro/project-html-and-css-in-depth/assets/108890154/8def0298-5fa6-433f-867d-7c4184ec8bc2
+
+
 
 - Layout Visual
 Dediquei especial atenção ao layout visual do projeto. Assegurei-me de criar uma estrutura que seja visualmente atraente e de fácil compreensão para os usuários. Explorei diferentes técnicas de design, como espaçamento adequado, cores harmoniosas e tipografia legível.
