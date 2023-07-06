@@ -25,5 +25,3 @@ The project helped me develop the following skills:
 - HTML and CSS
 - JavaScript
 
-## Authors
-- [@coursera](https://www.coursera.org/learn/html-and-css-in-depth?)
