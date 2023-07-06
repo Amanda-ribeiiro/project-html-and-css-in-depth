@@ -1,3 +1,6 @@
+[![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green)](README.pt.md)
+[![English](https://img.shields.io/badge/Language-English-green)](README.md)
+
 # HTML and CSS em Depth <img src="https://th.bing.com/th/id/OIP.L5MBP2lB2KENDlRirmcnMAAAAA?pid=ImgDet&rs=1" alt="Imagem" width="70"/>
 
 Este é o projeto elaborado para o curso HTML and CSS em Depth, oferecido pelo Meta no Coursera. Utilizando os conhecimentos adquiridos ao longo do curso, desenvolvi este projeto com foco nos seguintes aspectos:
