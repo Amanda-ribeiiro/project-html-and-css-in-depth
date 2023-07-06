@@ -32,6 +32,3 @@ Além do estilo básico, implementei efeitos CSS para adicionar interatividade e
 - HTML and CSS
 - JavaScript
 
-## Autores
-
-- [@coursera](https://www.coursera.org/learn/html-and-css-in-depth?)
